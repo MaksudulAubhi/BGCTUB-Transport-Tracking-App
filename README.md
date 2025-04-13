@@ -1,9 +1,7 @@
 # BGCTUB-Transport-Tracking-App(Course Final project)
+Android App Development, Firebase 
 Developed 4 Android Apps: Driver App, Student App, Transport Authority App, Information App
-
 To show the real time locations of buses on Google map and provide journey information.
-Android App Development, Firebase Developed 4 Android Apps: Driver App, Student App, Transport Authority App, Information App To show the real time locations of buses on Google map and provide journey information.
-Android Development · Firebase · Java
 
 ### Student App
 #### https://github.com/MaksudulAubhi/bgctub_transport_tracker_app_student_app-Final_project
