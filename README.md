@@ -1,1 +1,1 @@
-# BGCTUB-Transport-Tracking-App(Bsc. Final project)
+# BGCTUB-Transport-Tracking-App(Course Final project)
